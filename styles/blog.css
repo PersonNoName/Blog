@@ -2,11 +2,11 @@ div   {font-family:楷体;}
 body	{font-family:楷体;}
 .red	{color:red;}
 
-p	{font-size:18;}
-p.b_r	{font-size:18;font-style:italic;font-weight:bold}
-p.red	{font-size:18; font-weight:bold;color:red}
-p.bold	{font-size:18; font-weight:bold}
-p.indent{font-size:18;text-indent:20px}
+p	{font-size:20;}
+p.b_r	{font-size:20;font-style:italic;font-weight:bold}
+p.red	{font-size:20; font-weight:bold;color:red}
+p.bold	{font-size:20; font-weight:bold}
+p.indent{font-size:20;text-indent:20px}
 
 /*链接下划线隐藏*/
 a.hide	{text-decoration:none}
